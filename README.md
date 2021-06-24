@@ -4,4 +4,4 @@
 
 <a id="raw-url" href="https://raw.githubusercontent.com/aptxyz/shopperlator/main/android\app\build\outputs\apk\release\app-release.apk">Shopperlator</a>
 
-![](https://github.com/aptxyz/shopperlator/blob/main/shopperlator.png)
+![](https://github.com/aptxyz/shopperlator/blob/main/shopperlator.jpg)
